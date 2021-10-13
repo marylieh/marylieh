@@ -11,7 +11,7 @@ Hello World 👋, I'm ***REMOVED***
 
 ![](https://komarev.com/ghpvc/?username=***REMOVED***15)
 
-*Some of my projects:*
+**Some of my projects:**
 
 **- [SimpleWarp](https://github.com/***REMOVED***15/SimpleWarp)**
 
