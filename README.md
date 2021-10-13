@@ -33,4 +33,4 @@ This plugin can minimize lags on Minecraft servers.
 
 A plugin which allows the players to play challenges in Minecraft. This plugin will be written with kotlin in the future.
 
-![GitHub metrics](https://github.com/***REMOVED***15/***REMOVED***15/blob/master/github-metrics.svg)
+![Metrics](https://github.com/***REMOVED***15/***REMOVED***15/blob/master/github-metrics.svg)
