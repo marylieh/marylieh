@@ -1,7 +1,7 @@
-<h1 align="center>
+<h1 align="center">
 Hello World 👋, I'm ***REMOVED***
 </h1>
-<h3 align="center">High school stundent from Germany</h3>
+<h3 align="center">High school student from Germany</h3>
 
 [Java](https://www.oracle.com/java) 💚 
 
