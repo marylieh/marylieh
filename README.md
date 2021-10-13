@@ -3,7 +3,7 @@ Hello World 👋, I'm ***REMOVED***
 </h1>
 <h3 align="center">High school student from Germany</h3>
 
-[Java](https://www.oracle.com/java) 💚 
+[Java](https://www.oracle.com/java) 💛
 
 [Kotlin](https://kotlinlang.org) 💜
 
