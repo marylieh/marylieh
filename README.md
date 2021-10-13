@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center>
+Hello World 👋, I'm ***REMOVED***
+</h1>
+<h3 align="center">High school stundent from Germany</h3>
 
-<!--
-*****REMOVED***15/***REMOVED***15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Java](https://www.oracle.com/java) 💚
 
-Here are some ideas to get you started:
+[Kotlin](https://kotlinlang.org) 💜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Gradle](https://gradle.org) 💙
+
+![](https://komarev.com/ghpvc/?username=***REMOVED***15)
+
+*Some of my projects:*
+
+**- [SimpleWarp](https://github.com/***REMOVED***15/SimpleWarp)**
+
+A simple plugin to create warp points in the videogame Minecraft.
+
+**- [SimplePerms](https://github.com/***REMOVED***15/SimplePerms)**
+
+A simple Minecraft server plugin to manage permissions for players. This plugin is also be able to manage player permissions within groups.
+
+**- [***REMOVED***Homepage](https://github.com/***REMOVED***15/***REMOVED***Homepage)**
+
+My personal homepage hosted with github pages.
+
+**- [SimpleAntiLag](https://github.com/***REMOVED***15/SimpleAntiLag)**
+
+This plugin can minimize lags on Minecraft servers.
+
+**- [KUtils](https://github.com/***REMOVED***15/MGUtils)**
+
+A plugin which allows the players to play challenges in Minecraft. This plugin will be written with kotlin in the future.
+
+![GitHub metrics](https://github.com/***REMOVED***15/***REMOVED***15/blob/master/github-metrics.svg)
