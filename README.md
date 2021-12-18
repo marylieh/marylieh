@@ -3,11 +3,7 @@ Hello World 👋, I'm ***REMOVED***
 </h1>
 <h3 align="center">High school student from Germany</h3>
 
-[Java](https://www.oracle.com/java) 💛
-
-[Kotlin](https://kotlinlang.org) 💜
-
-[Gradle](https://gradle.org) 💙
+I love working with [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/). 🥰🏳️‍🌈
 
 ![](https://komarev.com/ghpvc/?username=***REMOVED***15)
 
