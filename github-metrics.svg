@@ -3204,7 +3204,7 @@ Add a "create server" button in the server selector</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2021, 13:57:48 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 14:23:21 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
