@@ -52,11 +52,11 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: ***REMOVED***15/SimpleWarp, ***REMOVED***15/SimplePerms, ***REMOVED***15/***REMOVED***Homepage, ***REMOVED***15/SimpleAntiLag, ***REMOVED***15/MGUtils
           
-          plugin_music: no
-          plugin_music_provider: spotify
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_music_mode: recent
-          plugin_music_limit: 5
+          # plugin_music: yes
+          # plugin_music_provider: spotify
+          # plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          # plugin_music_mode: recent
+          # plugin_music_limit: 5
           
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
