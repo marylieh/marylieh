@@ -436,7 +436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>***REMOVED***15/SimpleWarpV3</span>
-                                        <span>created 18 days ago</span>
+                                        <span>created 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple plugin to manage Warp points on your minecraft server.</div>
@@ -1854,7 +1854,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2022, 14:12:58 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 14:28:09 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
