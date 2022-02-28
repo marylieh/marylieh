@@ -578,7 +578,7 @@ she/they</div>
                                     </svg>
                                     <div class="name">
                                         <span>***REMOVED***15/LicenseManagerV2</span>
-                                        <span>created 29 days ago</span>
+                                        <span>created Jan 29 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remastered version of the License management tool from ***REMOVED***.</div>
@@ -1859,7 +1859,7 @@ Development</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2022, 12:49:19 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 13:18:53 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
