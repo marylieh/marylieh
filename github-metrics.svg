@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1981" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2021" class="">
     <defs>
         <style/>
     </defs>
@@ -1901,22 +1901,22 @@ Change CLobby.kt
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">5ca528e4</span>
-                            <span class="code">src/main/resources/translations/general/messages_de.properties</span>
-                            <span class="code"><span class="snippet additions">++6</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">src/main/resources/translations/general/items.properties</span>
+                            <span class="code"><span class="snippet additions">++9</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,6 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># 0 -&gt; Plugin Authors<br /></span><span class="token prefix inserted">+</span><span class="token line">console.enabled.authors=Dieses Plugin wurde programmiert von {0}.<br /></span><span class="token prefix inserted">+</span><span class="token line"># 0 -&gt; Language<br /></span><span class="token prefix inserted">+</span><span class="token line">Language.current=Die Standardsprache des Servers ist {0}<br /></span><span class="token prefix inserted">+</span><span class="token line"># 0 -&gt; Language<br /></span><span class="token prefix inserted">+</span><span class="token line">Language.set=Die Standardsprache des Servers wurde auf {0} gesetzt.<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,9 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">GameModeSelector.name=Select gamemode<br /></span><span class="token prefix inserted">+</span><span class="token line">LobbySwitcher.name=Switch Lobby<br /></span><span class="token prefix inserted">+</span><span class="token line">YourInventory.name=Your inventory<br /></span><span class="token prefix inserted">+</span><span class="token line">YourFriends.name=Your friends<br /></span><span class="token prefix inserted">+</span><span class="token line">Settings.name=Settings<br /></span><span class="token prefix inserted">+</span><span class="token line">Friends.status=Your status<br /></span><span class="token prefix inserted">+</span><span class="token line">Friends.status.lore=Left click &gt;&gt; set status<br /></span><span class="token prefix inserted">+</span><span class="token line">Friends.friend.online.online=Online<br /></span><span class="token prefix inserted">+</span><span class="token line">Friends.friend.online.offline=Offline<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2022, 08:12:15 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 21 Mar 2022, 08:28:04 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
