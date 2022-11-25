@@ -13,4 +13,4 @@ Hi, I'm marie 🌸
 Thank you for visiting my profile ^-^
 
 
-![GitHub metrics](https://github.com/***REMOVED***15/***REMOVED***15/blob/main/github-metrics.svg)
+![GitHub metrics](https://github.com/marylieh/marylieh/blob/main/github-metrics.svg)

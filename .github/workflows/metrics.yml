@@ -50,7 +50,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_repositories: yes
-          plugin_repositories_featured: marylieh/SimpleWarpV3, marylieh/SimplePerms, marylieh/***REMOVED***Homepage, marylieh/LicenseManagerV2, marylieh/KUtils
+          plugin_repositories_featured: marylieh/SimpleWarpV3, marylieh/SimplePerms, marylieh/LicenseManagerV2, marylieh/KUtils
           
           # plugin_music: yes
           # plugin_music_provider: spotify
