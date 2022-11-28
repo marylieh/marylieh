@@ -9,8 +9,9 @@ Hi, I'm marie 🌸
 
 ♥ I do [Kotlin](https://kotlinlang.org/) 💜, [Java](https://www.oracle.com/de/java/) ☕ and learning [Rust](https://www.rust-lang.org/) 🦀 currently. I also do a little HTML CSS Website stuff but I don't like [JavaScript](https://www.javascript.com/) 🟨 :P
 
-<div align="right">![](https://komarev.com/ghpvc/?username=marylieh)</div>
 Thank you for visiting my profile ^-^
+
+![](https://komarev.com/ghpvc/?username=marylieh)
 
 
 ![GitHub metrics](https://github.com/marylieh/marylieh/blob/main/github-metrics.svg)
