@@ -3,7 +3,7 @@ Hi, I'm marie 🌸
 </h1>
 <h3 align="center">Pretty sure that she was supposed to be the second Kira</h3>
 
-♥ I'm interested in Art, Fashion, Programming, Gaming and Anime :3
+♥ I'm interested in Art, Fashion, Programming, Robotic, Gaming and Anime :3
 
 ♥ My favorite game is [Life is Strange](https://lifeisstrange.square-enix-games.com/de/games/life-is-strange-remastered-collection/) and the Anime I love the most is (what you can probably guess) [Death Note](https://de.wikipedia.org/wiki/Death_Note) <3
 
