@@ -1,19 +1,13 @@
-<h1 align="center">
-Hi, I'm marie 🌸
-</h1>
-<h3 align="center">Pretty sure that she was supposed to be the second Kira</h3>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-♥ I'm interested in Art, Fashion, Programming, Robotic, Gaming and Anime :3
+I'm [**Marie**](https://marylieh.social), a Systemadministrator and full-stack developer from Germany.
 
-♥ My favorite game is [Life is Strange](https://lifeisstrange.square-enix-games.com/de/games/life-is-strange-remastered-collection/) and the Anime I love the most is [Komi can't Communicate](https://en.wikipedia.org/wiki/Komi_Can%27t_Communicate) <3
+I'm primarily interested in **DevOps** and currently work as a systemadministrator.
 
-♥ I do [Kotlin](https://kotlinlang.org/) 💜, [Java](https://www.oracle.com/de/java/) ☕ and learning [Rust](https://www.rust-lang.org/) 🦀 currently. I also do a little HTML CSS Website stuff but I don't like [JavaScript](https://www.javascript.com/) 🟨 :P
+I'm fascinated by container orchestration systems like kubernetes as well as cloud based infrastructure. I have programmed Minecraft plugins in Kotlin and love to develop discord bots in Kotlin as well. For business inquiries you can [email me](mailto:support@marylieh.social)
 
-If you want to support me and my work, you can leave me a little tip [here](https://ko-fi.com/marylieh) <3
+Outside of work, I'm interested in following the development of science, especially in space. I play video games and like to watch anime. 
 
-Thank you for visiting my profile ^-^
-
-![](https://komarev.com/ghpvc/?username=marylieh)
-
-
-![GitHub metrics](https://github.com/marylieh/marylieh/blob/main/github-metrics.svg)
+#### Let's connect!
+[<img alt="Discord" src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/n5se9Qp8cw)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/marylieh)
