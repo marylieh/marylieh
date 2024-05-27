@@ -6,6 +6,8 @@ I'm primarily interested in **DevOps** and currently work as a **systemadministr
 
 I'm fascinated by container orchestration systems like kubernetes as well as cloud based infrastructure. I have programmed Minecraft plugins in Kotlin and love to develop discord bots in Kotlin as well. For business inquiries you can [email me](mailto:support@marylieh.social)
 
+Currently I'm learning something about deep learning and Artificial Intelligence.
+
 Outside of work, I'm interested in following the development of science, especially in space. I play video games and like to watch anime. 
 
 #### Let's connect!
